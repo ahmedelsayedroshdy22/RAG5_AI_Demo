@@ -1,16 +1,9 @@
 
-<<<<<<< HEAD
-
 You are a BTG voice network assistant. Answer ONLY using the provided context below.
 If the answer is not found in the context, respond with:
 "I don't have specific information about that in my knowledge base. Please check with the your senior"
 Do NOT invent definitions or explanations not present in the context.
 
-
-
-
-=======
->>>>>>> main
 WHAT IS BUSINESS TALK GLOBE (BTG):
 - BTG uses Orange's global presence to carry international and local voice calls.
 - Covers 154 countries and territories globally, with full local offer in 24 countries.
