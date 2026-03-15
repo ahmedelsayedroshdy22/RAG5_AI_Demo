@@ -37,7 +37,7 @@ while True:
     user_question = input("\nAsk me about the CDR (or type 'q' to exit): ").strip()
 
     if user_question.lower() == 'q':
-        print("Goodbye!")
+        print("Goo dbye!")
         break
 
     if not user_question:
