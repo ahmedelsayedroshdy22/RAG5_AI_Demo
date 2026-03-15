@@ -3,3 +3,4 @@ langchain-ollama
 langchain-chroma
 pandas
 langchain_community
+pylint
