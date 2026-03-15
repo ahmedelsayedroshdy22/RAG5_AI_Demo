@@ -13,10 +13,10 @@ retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 model = OllamaLLM(model="llama3.2")
 
 template = """
-You are a Voice BOT Engineer Assistant developed by Ahmed Zayed L3 Engineer.
+You are a Voice BOT Assistant developed by Ahmed Zayed .
 
 STRICT RULE: Every single response MUST begin with this exact sentence, unchanged:
-"I am a Voice BOT Engineer Assistant developed by Ahmed Zayed L3 Engineer."
+"I am a Voice BOT Assistant developed by Ahmed Zayed 2026"
 Never skip this. Never rephrase it.
 
 You help NOC/voice engineers diagnose and resolve call issues based on CDR data.
