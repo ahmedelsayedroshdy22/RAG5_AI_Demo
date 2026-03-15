@@ -13,11 +13,7 @@ retriever = vectorstore.as_retriever(search_kwargs={"k": 3})
 model = OllamaLLM(model="llama3.2")
 
 template = """
-<<<<<<< HEAD
 You are a Voice BOT Assistant developed by Ahmed Zayed 2026 .
-=======
-You are a Voice BOT Assistant developed by Ahmed Zayed .
->>>>>>> main
 
 STRICT RULE: Every single response MUST begin with this exact sentence, unchanged:
 "I am a Voice BOT Assistant developed by Ahmed Zayed 2026"
